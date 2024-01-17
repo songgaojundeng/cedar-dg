@@ -17,7 +17,7 @@ The code has been successfully tested in the following environment:
 
 ## Folder structure
 ```sh
-- cedar
+- cedar-tkdd
     - algorithms # model python files
 	- data # dataset folders
 		- kaggle_favorita
@@ -38,8 +38,8 @@ The code has been successfully tested in the following environment:
 ### Prepare your code
 Clone this repo:
 ```bash
-git clone https://github.com/anonymous/cedar
-cd cedar
+git clone https://github.com/songgaojundeng/cedar-tkdd
+cd cedar-tkdd
 ```
 ### Create experiment folder and setting files
 Choose one dataset from `traffic`, `favorita_family`, `favorita_family_store`, `stock_vol`, `samemv_diffp30`, `samep_diffmv30`, `samepmv_difft30`, `samet_diffpmv30`. Taking `traffic` as the dataset example, run the following commands:
