@@ -1,5 +1,5 @@
 # Cedar
-Source Code and Supplementary Materials for "Domain Generalization in Time Series Forecasting"
+Source code and supplementary materials for "Domain Generalization in Time Series Forecasting" appeared in TKDD
 
 ## Contents of this repository
 * Source code and datasets.
