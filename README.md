@@ -83,7 +83,7 @@ python get_seed_results_cedar.py traffic deepar_cedar.csv deepar_cedar
 python get_seed_results_baseline.py traffic deepar.csv deepar
 ```
 
-### 6. Train traditional time series models
+### Train traditional time series models
 ```
 python train_traditional.py traffic 0
 ```
