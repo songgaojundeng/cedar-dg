@@ -89,7 +89,7 @@ python train_traditional.py traffic 0
 ```
 
 
-### Cite
+## Cite
 Please cite our paper if you find this code useful for your research:
 
 ```
