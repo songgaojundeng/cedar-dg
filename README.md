@@ -1,5 +1,5 @@
 # Cedar
-Source code and supplementary materials for "S. Deng et al., 'Domain Generalization in Time Series Forecasting', ACM TKDD, to appear".
+Source code and supplementary materials for "S. Deng et al., 'Domain Generalization in Time Series Forecasting', ACM TKDD, 2024".
 
 
 
@@ -95,9 +95,16 @@ python train_traditional.py traffic 0
 Please cite our paper if you find this code useful for your research:
 
 ```
-@article{deng-2024-domain,
+@article{10.1145/3643035,
 author = {Deng, Songgaojun and Sprangers, Olivier and Li, Ming and Schelter, Sebastian and de Rijke, Maarten},
-journal = {ACM Transactions on Knowledge Discovery from Data},
 title = {Domain Generalization in Time Series Forecasting},
-year = {To appear}}
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1556-4681},
+url = {https://doi.org/10.1145/3643035},
+doi = {10.1145/3643035},
+journal = {ACM Trans. Knowl. Discov. Data},
+month = {jan}
+}
 ```
